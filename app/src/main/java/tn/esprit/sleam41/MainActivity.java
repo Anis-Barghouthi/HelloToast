@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mShow_count = (TextView) findViewById(R.id.show_count);
     }
 
     public void showToast(View view) {
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void countUp(View view) {
-
+        ++mCount;
+        if (mShow_count != null) mShow_count.setText(Integer.toString(mCount));
     }
 }
