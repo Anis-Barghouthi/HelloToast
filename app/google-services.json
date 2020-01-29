@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30343800987",
+    "firebase_url": "https://hello-toast-91fc2.firebaseio.com",
+    "project_id": "hello-toast-91fc2",
+    "storage_bucket": "hello-toast-91fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30343800987:android:cb7f4373f62f7cb8e13e3e",
+        "android_client_info": {
+          "package_name": "tn.esprit.sleam41"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30343800987-8dpjvtg4g9njta0044mvvj8fcista7np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tn.esprit.sleam41",
+            "certificate_hash": "22b69afd55303f5bcdad4c34bfb539df6c3f5898"
+          }
+        },
+        {
+          "client_id": "30343800987-v1du30t68l26l9v4fkaqi7laa3ppjr6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXIl_4jDjcQkrit3bUnumU6jEcagpDdb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30343800987-v1du30t68l26l9v4fkaqi7laa3ppjr6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
